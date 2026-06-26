@@ -1,2 +1,11 @@
 # character-checker
-A lightweight utility to analyze strings and count digits, uppercase letters, lowercase letters, and special characters
+A simple, efficient utility designed to analyze text streams or strings and provide a detailed breakdown of their character composition. It categorizes and counts characters into four distinct types:
+
+Digits: 0-9
+
+Uppercase Letters: A-Z
+
+Lowercase Letters: a-z
+
+Special Characters: Symbols, punctuation, and whitespace (e.g., @, #, $, !,  )
+
